@@ -1,4 +1,4 @@
-Olá! Eu sou Lucas Victor 🙋
+Olá! Eu sou Lucas Victor 🙋!
 
 
 Sou estudante de Desenvolvimento Web FullStack na Trybe.
