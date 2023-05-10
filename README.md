@@ -3,7 +3,7 @@ Olá! Eu sou Lucas Victor 🙋!
 
 Sou estudante de Desenvolvimento Web FullStack na Trybe.
 
-- 🌱 No momento estou aprendendo POO e SOLID.
+- 🌱 No momento estou aprendendo Python.
 - 🏠 Campinas-SP
 
 
